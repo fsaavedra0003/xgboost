@@ -4,7 +4,7 @@ This project uses the XGBoost Regressor to predict next-day stock closing prices
 
 The main goal is to showcase how machine learning, particularly gradient boosting, can be used in a realistic financial forecasting scenario.
 
-#test
+
 
 ## 🧠 Tech Stack
 

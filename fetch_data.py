@@ -2,7 +2,7 @@
 import yfinance as yf
 import pandas as pd
 import argparse
-
+#function for downloding
 def download_stock_data(ticker, start, end, output_path):
     data = yf.download(ticker, start=start, end=end)
     data.to_csv(output_path)

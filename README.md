@@ -1,6 +1,8 @@
 # 📈 Stock Price Prediction using XGBoost
 
-This project uses XGBoost Regressor to predict next-day stock prices based on historical financial data and technical indicators..
+This project uses XGBoost Regressor to predict next-day stock prices based on historical financial data and technical indicators.
+
+#test
 
 ## 🧠 Tech Stack
 

@@ -8,7 +8,7 @@ The main goal is to showcase how machine learning, particularly gradient boostin
 
 ## 🧠 Tech Stack
 
-- XGBoost
+- XGBoost.
 - Scikit-learn
 - yfinance API
 - Pandas & NumPy

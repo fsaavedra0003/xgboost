@@ -19,3 +19,4 @@ See the full structure above.
 
 ## ⚙️ How to Run
 1. Clone the repository:
+- Git clone
